@@ -210,11 +210,3 @@ cat file1.txt file2.txt >> file3.txt
 * May contain **NULL values**
 
 ---
-
-### ✅ What I Improved
-
-* Corrected spelling & grammar
-* Fixed incorrect or unclear explanations
-* Added proper structure and headings
-* Made commands & examples consistent
-* Converted handwritten notes into **interview-ready documentation**
